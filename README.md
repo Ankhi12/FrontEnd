@@ -13,6 +13,6 @@ This repository will consists of my solution to frontend mentor free challenges
 
 [Image Source](https://unsplash.com/photos/4i9ef6xU738)
 
-[code]()
+[code](https://github.com/Ankhi12/FrontEnd/tree/main/2ndChallenge)
 
 
