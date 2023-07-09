@@ -1,0 +1,43 @@
+@media screen and (min-width: 80rem){
+    .parentDiv{
+    display: flex;
+    padding: 40px;
+    margin: 80px 160px 120px 290px;
+    width: 50%;
+    border-radius: 40px;
+    box-shadow: 10px 10px;
+}
+}
+@media screen and (min-width: 80rem) {
+    .leftDiv{
+    float: left;
+    width: 50%;
+    margin: 20px 60px 80px 0px;
+    border-radius: 10%;
+    background-color: blue;
+} 
+.roundDiv{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px 160px 60px;
+    background-color: #8A8AFF;
+}
+.align{
+    margin: 5px;
+}
+.padDiv{
+    padding: 20px;
+}
+.padpDiv{
+    margin: 40px;
+}
+.marginDiv{
+    margin: 1px;
+}
+.rightDiv{
+    float: right;
+    padding: 10px;
+    width: 50%
+}
+}
