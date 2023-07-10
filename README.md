@@ -37,7 +37,8 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
 5. My output to [profile card](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ)
 
-   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/d1a264e7-8379-48b4-8be5-c78e8b1a0961)
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/205adb2b-1e2d-44ee-853e-2b02684f9fba)
+
 
    Image credit: Unsplash
 
