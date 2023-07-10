@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Feedback
+        </title>
+        <link href="./3rdChallenge.css" rel="stylesheet">
+    </head>
+    <body onload="clear()">
+        <div class ="parent">
+            <div class="star">
+            </div>
+            <br/>
+            <h3>How did we do?</h3>
+            <p>Please let us know how we did with your support <br/>
+            request. All feedback is appreciated to help us <br/>
+            improve our offering!</p>
+            <div id = "button-group">
+                <button class="button-child1" onclick="clicked('1');">1</button>
+                <button class="button-child2" onclick="clicked('2')">2</button>
+                <button class="button-child3" onclick="clicked('3')">3</button>
+                <button class="button-child4" onclick="clicked('4')">4</button>
+                <button class="button-child5" onclick="clicked('5')">5</button>
+            </div>
+            <br/>
+            <br/>
+            <button style="background-color: rgb(242, 131, 3);border-radius: 20px; padding: 15px; width: 250px; color: azure;letter-spacing: 2px;" onclick="submit()">SUBMIT</button>
+            <div class="form-popup" id="selected-ratings">
+                <div class = "pop-up">
+                </div>
+                <div class="second-screen">
+                    <button type="button" class="btn cancel" onclick="closeForm()" style="letter-spacing:0.2rem;border-radius:15px;padding: 15px;color: white;width:90px;background-color: rgb(242, 131, 3)">Close</button>
+                </div>
+            </div>
+        </div>
+        <script>
+            let num = 0
+            let className = ''
+            function closeForm() {
+                document.getElementById("selected-ratings").style.display = "none";
+                const popUp = document.querySelector('.pop-up')
+                popUp.innerHTML = ""
+            }
+            function clear(){
+                document.getElementById("selected-ratings").style.visibility = "hidden"
+                document.getElementById('selected-ratings').style.display = 'none'
+            }
+            function submit(){
+                const popUp = document.querySelector('.pop-up')
+                popUp.innerHTML = ""
+                if(num != 0){
+                    document.getElementById('selected-ratings').style.visibility = 'visible'
+                    document.getElementById('selected-ratings').style.display = 'block'
+                    const popUp = document.querySelector('.pop-up')
+                    const h1 = document.createElement('h3')
+                    h1.innerHTML = `You have selected ${num} out of 5`
+                    popUp.appendChild(h1)
+                }
+            }
+            function clicked(p){
+                document.getElementById('selected-ratings').style.visibility = 'hidden'
+                num = Number(p)
+                const clickedbutton = document.getElementById('button-group').children[num-1]
+                const classes = ['button-child1', 'button-child2', 'button-child3', 'button-child4', 'button-child5']
+                for(let i = 0; i < classes.length; i++){
+                    const docEle = document.getElementsByClassName(classes[i])[0].style.backgroundColor = 'rgb(79, 77, 77)'
+                }
+                const ele = document.getElementsByClassName(classes[num-1])
+                className = classes[num-1]
+                ele[0].style.backgroundColor = 'rgb(242, 131, 3)'
+            }
+        </script>
+    </body>
+</html>
