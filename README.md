@@ -19,12 +19,13 @@ This repository will consists of my solution to frontend mentor free challenges
 3. My output to [feedback screen](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 
-![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/432e6d38-c13a-4123-bc89-b37f65ec14ec)
+i) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/432e6d38-c13a-4123-bc89-b37f65ec14ec)
 
 
-![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-4a9e-b635-8a7d2380cbc9)
+ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-4a9e-b635-8a7d2380cbc9)
 
-[code]()
+
+[code](https://github.com/Ankhi12/FrontEnd/tree/main/3rdChallenge)
 
 
 
