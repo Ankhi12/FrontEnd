@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Order Summary
+    </title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <style>
+        .parent{
+            width:450px;
+            height:680px;
+            padding: 30px;
+            margin-top: 80px;
+            margin-left: 480px;
+            border-radius: 30px;
+        }
+        .image-class{
+            width: 250px;
+            height: 250px;
+            margin-left: 80px;
+            object-fit: cover;
+        }
+        .second-half{
+            width: 420px;
+            height: 320px;
+            text-align: center;
+        }
+        .plan{
+            height: 70px;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+        }
+        .round{
+            border-radius: 50%;
+            background-color: rgb(208, 208, 234);
+            height: 40px;
+            width: 40px
+        }
+        .text{
+            margin:-40px;
+            padding: 10px;
+        }
+        .last{
+            float: right;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="parent shadow p-3 mb-5 bg-white rounded-6">
+        <img class="image-class"src="music.avif" alt="order">
+        <div class="second-half">
+            <h3>Order Summary</h3>
+            <br/>
+            <p class="fs-6">
+                You can now listen to millions of songs, <br/>
+                audiobooks, and podcasts on any device <br/>
+                anywhere you like!
+            </p>
+            <br/>
+            <div class="plan shadow-lg p-3 mb-5 bg-white rounded">
+                <div class="round shadow-lg">
+                </div>
+                <div class="text">
+                    <strong>Annual Plan</strong>
+                </div>
+                <div class="last">
+                   <a href="#">Change</a>
+                </div>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <button type="button" class="btn btn-primary" style="width:350px;border-radius:12px;">Proceed to Payment</button>
+                <br/>
+                <br/>
+                <p style="text-shadow:0.5px 1px">cancel order</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
