@@ -19,7 +19,7 @@ This repository will consists of my solution to frontend mentor free challenges
 3. My output to [feedback screen](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
 
 
-![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/397b71f4-5721-4629-8bbe-ebe85b8c143d)
+i) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/2161fbd3-d273-4442-bc17-1dcb9c18c530)
 
 
 
@@ -47,7 +47,8 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
 6. My output to [expense dashboard](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
 
-   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/6559bd6c-1a3f-462e-a7d1-d5f953739e00)
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/6554209e-8971-4c95-819f-b5ab16088cd5)
+
 
    [code](https://github.com/Ankhi12/FrontEnd/blob/main/6thChallenge/expendeDashboard.html)
 
