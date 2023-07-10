@@ -44,6 +44,11 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
    [Source code](https://github.com/Ankhi12/FrontEnd/blob/main/5thChallenge/profile.html)
 
+6. My output to [expense dashboard](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/6559bd6c-1a3f-462e-a7d1-d5f953739e00)
+
+   [code](https://github.com/Ankhi12/FrontEnd/blob/main/6thChallenge/expendeDashboard.html)
 
 
 
