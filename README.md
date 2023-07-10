@@ -27,6 +27,13 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
 [code](https://github.com/Ankhi12/FrontEnd/tree/main/3rdChallenge)
 
+4. [Order Summary](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
+
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/23de80ba-d5d4-457f-bee4-9f621333852d)
+
+   [Image credit](https://www.freepik.com/free-vector/young-listening-music-korean-drawing-style-drawing_5684038.htm#query=person%20with%20headphone&position=2&from_view=search&track=ais)
+
+
 
 
 
