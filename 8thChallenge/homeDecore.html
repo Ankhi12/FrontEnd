@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Home Decore
+        </title>
+        <style>
+            .parent{
+                width: 950px;
+                height: 550px;
+                margin: auto;
+                box-shadow: 5px 15px 10px gray;
+            }
+            .left-upper{
+                float: left;
+                width: 576px;
+                height: 320px;
+            }
+            .right-upper{
+                float: right;
+                width: 250px;
+                padding: 60px;
+                height: 200px;
+            }
+            .lower-left{
+                float: left;
+                width: 320px;
+                height: 230px;
+            }
+            .lower-center{
+                width: 350px;
+                height: 230px;
+                margin-top: 420px;
+                margin-left: 320px;
+            }
+            #upper-image{
+                float: left;
+                position: absolute;
+                width: 576px;
+                height: 320px;
+                z-index: -1;
+            }
+            .text-upper{
+                margin-top: 20px;
+                margin-left: 100px;
+                font-size: 20px;
+                display: flex;
+            }
+            p{
+                flex:1;
+                color: white;
+            }
+            #right-p{
+                color: black;
+                width: 250px;
+                height: 100px;
+                font-size: 12px;
+            }
+            #image-lower{
+                width: 320px;
+                height: 230px;
+                object-fit: cover;
+            }
+            #lower-right-image{
+                float: right;
+                height: 232px;
+                width: 250px;
+                margin-left: 30px;
+                margin-top: -2px;
+                object-fit: cover;
+            }
+            .lower-center-body{
+                margin-top: 40px;
+            }
+            #about{
+                margin-top: 20px;
+                margin: 40px;
+                font-size: 30px;
+                color:black
+            }
+        </style>
+    </head>
+    <body>
+        <div class="parent">
+            <div class="left-upper">
+                <img id="upper-image"src="./photo-1513694203232-719a280e022f.avif" alt="furniture">
+                <div class="text-upper">
+                    <p>room</p>
+                    <p>home</p>
+                    <p>shop</p>
+                    <p>about</p>
+                    <p>contact</p>
+                </div>
+            </div>
+            <div class="right-upper">
+                <h2>Discover innovative <br/>
+                    ways to decorate</h2>
+                <p id="right-p">
+                    We provide unmatched quality, comfort, and style for property
+                    owners across the country. Our experts combine form and
+                    function in bringing your vision to life. Create a room in your
+                    own style with our collection and make your property a
+                    relfection of you and what you have.
+                </p>
+                <h3 style="letter-spacing: 4px;">SHOP NOW -----></h3>
+            </div>
+            <div class="lower-left">
+                <img id="image-lower" src="./photo-1586023492125-27b2c045efd7.avif" alt="furniture1">
+            </div>
+            <div class="lower-center">
+                <br/>
+                <div class="lower-center-body">
+                    <strong><p id="about"> ABOUT OUR FURNITURE </p></strong>
+                    <p style="color: black; font-size: 10px;margin-left: 40px;">Our multifunctional collection blends design and function<br/> to suit your individual taste.
+                    Make each room unique,<br/> or pick a cohesive theme <br/> that best express your interests and what inspires your.<br/>
+                    Find the furniture pieces you need, from traditional to contemporary <br/>styles or anything in between. <br/>
+                    Product specialists are available to help you create your dream space.</p>
+                </div>
+            </div>
+            <img id="lower-right-image"src="./photo-1592078615290-033ee584e267.avif" alt="furtniture3">
+        </div>
+    </body>
+</html>
