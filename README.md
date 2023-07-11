@@ -52,6 +52,13 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
    [code](https://github.com/Ankhi12/FrontEnd/blob/main/6thChallenge/expendeDashboard.html)
 
+7. My output to [Tip Calculator](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/4b1d4dfe-df46-4032-a2f8-c529bf6c5c84)
+
+   [code](https://github.com/Ankhi12/FrontEnd/blob/main/7thChallenge/TipCalculator.html)
+
+
 
 
 
