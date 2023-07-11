@@ -58,6 +58,16 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
    [code](https://github.com/Ankhi12/FrontEnd/blob/main/7thChallenge/TipCalculator.html)
 
+8. My output to [Home Decore website](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq)
+
+   ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/b760c0fd-965b-4308-a1b0-d2b228a2ce1d)
+
+
+   Image credit - [1](https://unsplash.com/photos/JIUjvqe2ZHg), [2](https://unsplash.com/photos/_HqHX3LBN18), [3](https://unsplash.com/photos/ljRiZl00n18)
+
+   [code](https://github.com/Ankhi12/FrontEnd/blob/main/8thChallenge/homeDecore.html)
+
+
 
 
 
