@@ -67,6 +67,14 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
    [code](https://github.com/Ankhi12/FrontEnd/blob/main/8thChallenge/homeDecore.html)
 
+9. My output to [landing page](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3)
+
+    ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/b22fbe63-2604-4fed-b804-ae49f7a0f7b2)
+
+   [Image credit](https://unsplash.com/photos/vWBKt9Dto1g)
+
+   [code](https://github.com/Ankhi12/FrontEnd/blob/main/9thChallenge/LandingPage.html)
+
 
 
 
