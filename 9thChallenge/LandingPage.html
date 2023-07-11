@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Space Travel
+        </title>
+        <style>
+            .parent{
+                width: 1280px;
+                height: 800px;
+                margin: auto;
+                margin-top: 50px;
+                border: 1px solid black;
+            }
+            .background-img{
+                width: 1280px;
+                height: 800px;
+                position: absolute;
+                z-index: -1;
+                filter: brightness(40%);
+                object-fit: cover;
+            }
+            .left{
+                float: left;  
+                margin-top: 350px;
+                margin-left: 120px;
+                width: 480px;
+                height: 250px;  
+                color: white;     
+            }
+            .right{
+                float: right;
+                width: 190px;
+                height: 190px;
+                margin-top: 440px;
+                margin-right: 200px;
+                border-radius: 50%;
+                background-color: azure;
+            }
+            .upper-top-right{
+                width: 650px;
+                height: 80px;
+                margin-top: -550px;
+                margin-right: -335px;
+                background-color: rgb(205, 204, 204);
+                display: flex;
+                z-index: -1;
+                opacity: 0.3;
+                float: right;
+            }
+            .nav-bar{
+                margin-top: 60px;
+                margin-left: 20px;
+                display: flex;
+            }
+            #navigation{
+                flex: 1;
+                border-bottom: 2px solid white;
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+                letter-spacing: 1px;
+            }
+            #navigation1{
+                flex: 1;
+                margin-left: 20px;
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+                letter-spacing: 1px;
+            }
+            #navigation2{
+                flex: 1;
+                margin-left: 20px;
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+                letter-spacing: 1px;
+            }
+            #navigation3{
+                flex: 1;
+                margin-left: 20px;
+                color: rgb(255, 255, 255);
+                font-size: 20px;
+                letter-spacing: 1px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="parent">
+            <img class="background-img"src="./photo-1572925077991-61acf7d70608.avif">
+            <div class="left">
+                <p style="font-size: 22px;letter-spacing: 2px;"><strong>SO, YOU WANT TO TRAVEL TO</strong></p>
+                <h1 style="font-size: 90px;letter-spacing: 6px;">SPACE</h1>
+                <p style="letter-spacing: 1px;font-size: 18px;">
+                    Let's face it; if you want to go to space, you might as well<br/>
+                    genuinely go to outer space and not hover kind of on the <br/>
+                    edge of it. Well sit back, and relax because we'll give you <br/>
+                    a truly out of this world experience!
+                </p>
+            </div>
+            <div class="right">
+                <p style="font-size:30px;letter-spacing: 1px;margin-top: 75px;margin-left: 22px;"><strong>EXPLORE</strong></p>
+            </div>
+            <div class="upper-top-right">
+            </div>
+            <div class="nav-bar">
+                <p id="navigation">00&nbsp;HOME</p><br/>
+                <p id="navigation1">01&nbsp;DESTINATION</p><br/>
+                <p id="navigation2">02&nbsp;CREW</p><br/>
+                <p id="navigation3">03&nbsp;TECHNOLOGY</p>
+            </div>
+        </div>
+    </body>
+</html>
