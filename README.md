@@ -75,6 +75,15 @@ ii) ![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/e9c17870-d3b3-
 
    [code](https://github.com/Ankhi12/FrontEnd/blob/main/9thChallenge/LandingPage.html)
 
+10. Customer Dashboard
+
+![image](https://github.com/Ankhi12/FrontEnd/assets/124775002/b6a24c44-27eb-4f2f-bae3-e1008218b670)
+
+credits - [1](https://www.freepik.com/free-vector/people-design-illustration_4801091.htm#page=2&query=single%20female%20profile&position=12&from_view=search&track=ais), [2](https://www.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_36332651.htm#query=male%20profile&position=27&from_view=search&track=ais), [3](https://www.flaticon.com/free-icon/power-off_2529508)
+
+[code](https://github.com/Ankhi12/FrontEnd/tree/main/11thChallenge)
+
+
 
 
 
